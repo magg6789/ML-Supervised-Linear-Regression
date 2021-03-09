@@ -371,14 +371,3 @@ print(results.mean())
 #of all errors (mean of square errors) 
 
 
-# In[42]:
-
-
-#
-
-
-# In[ ]:
-
-
-
-
